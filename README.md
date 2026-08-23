@@ -81,19 +81,3 @@ I'm a Computer Engineering student at Mersin University, currently exploring dif
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LocalinTheEngineer&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocalinTheEngineer&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LocalinTheEngineer&theme=radical&hide_border=true" />
-</p>
-
-<br/>
-
-<p align="center">
-  <em>Thanks for stopping by — feel free to check out the projects above or drop me a message!</em>
-</p>
