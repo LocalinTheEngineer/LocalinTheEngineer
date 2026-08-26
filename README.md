@@ -14,9 +14,6 @@
 <a href="https://www.linkedin.com/in/cem-ali-akgül-9a1581399/">
   <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/LocalinTheEngineer">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
 
 </div>
 
