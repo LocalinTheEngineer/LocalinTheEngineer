@@ -137,15 +137,15 @@ Developer Tools
 
 ---
 
-## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LocalinTheEngineer&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+### Building things. Breaking things. Fixing things. Repeat.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocalinTheEngineer&layout=compact&hide_border=true" />
+<sub>Most of my projects start with “this should be easy.”</sub>
 
 </div>
+
 
 ---
 
