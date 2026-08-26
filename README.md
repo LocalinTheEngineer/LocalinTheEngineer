@@ -1,84 +1,158 @@
 <div align="center">
 
-# Hi, I'm Cem Ali Akgül 👋
+# Cem Ali Akgül 👋
 
-### Computer Engineering Student @ Mersin University
+### Computer Engineering Student · Builder · Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Building+small+projects+while+I+learn;Currently%3A+React+%2B+Java;Always+exploring+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+projects+across+different+areas+of+technology.;Exploring+AI%2C+Cybersecurity+and+Software+Development.;Turning+ideas+into+things+that+actually+run." />
 
 <br/>
 
 <a href="mailto:cemali0220@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/cem-ali-akgül-9a1581399/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/cem-ali-akgül-9a1581399/">
+  <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/LocalinTheEngineer" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/LocalinTheEngineer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering student at Mersin University, currently exploring different areas of software development to figure out where I want to specialize. Right now that means building small full-stack-ish projects with React and Vite, and picking up whatever tools get me there.
+I'm a Computer Engineering student at **Mersin University** who enjoys exploring different areas of technology and building projects along the way.
 
-- 🎓 Studying Computer Engineering at Mersin University
-- 🔭 Currently building **DevTracker** and **Game Library** (see below)
-- 🌱 Learning React, Vite, and modern JS tooling
-- 💬 Ask me about Java, or anything I'm currently breaking in React
-- 📫 Reach me at **cemali0220@gmail.com**
+My interests currently revolve around **Artificial Intelligence, Cybersecurity, Software Development and Developer Tools**.
 
-<br/>
+Rather than sticking to a single type of project, I enjoy experimenting with different technologies — from AI-powered applications and network security systems to desktop software and interactive web platforms.
+
+* 🎓 Computer Engineering @ Mersin University
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 🔐 Exploring Cybersecurity and Network Security
+* 🛠️ Building developer tools and experimental software
+* 🚀 Always working on something new
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 SmartStudyAI
+
+> **AI-powered study and productivity platform**
+
+SmartStudyAI helps students organize their learning process, manage tasks and improve productivity with intelligent tools.
+
+**JavaScript · AI · Productivity · Education**
+
+🔗 [View Repository](https://github.com/LocalinTheEngineer/SmartStudyAI)
+
+---
+
+### 🛡️ NetworkIds
+
+> **Real-time Network Intrusion Detection System**
+
+A Python-based intrusion detection system capable of detecting network threats such as port scans, brute-force attempts, DoS attacks and SYN floods. Includes a live Flask dashboard for monitoring activity.
+
+**Python · Cybersecurity · Network Security · Flask**
+
+🔗 [View Repository](https://github.com/LocalinTheEngineer/NetworkIds)
+
+---
+
+### 🤖 MinecrAI
+
+> **Reinforcement Learning Agent for Minecraft**
+
+An experimental reinforcement learning project that uses Mineflayer and Gymnasium to create an AI agent capable of interacting with the Minecraft environment.
+
+**Python · Reinforcement Learning · AI · Mineflayer**
+
+🔗 [View Repository](https://github.com/LocalinTheEngineer/MinecrAI)
+
+---
+
+### 🎵 IconRave
+
+> **A Windows desktop app that brings icons to life**
+
+A playful physics-based application where desktop icons can fall, bounce, get thrown around and react to music.
+
+Because sometimes software doesn't need to solve a serious problem. Sometimes it just needs to make your desktop go absolutely insane.
+
+**C# · Windows · Physics · Audio**
+
+🔗 [View Repository](https://github.com/LocalinTheEngineer/IconRave)
+
+---
+
+### 🔍 LogLynx
+
+> **Log analysis and anomaly detection**
+
+A lightweight Python tool for analyzing application, syslog and access logs with anomaly detection — built with zero dependencies.
+
+**Python · Log Analysis · Security · Developer Tools**
+
+🔗 [View Repository](https://github.com/LocalinTheEngineer/loglynx)
+
+---
+
+### 🎮 GameLibrary
+
+> **Modern video game discovery platform**
+
+An interactive platform for discovering, searching and exploring video games through a modern and user-friendly interface.
+
+**JavaScript · Frontend · Web Development · UI**
+
+🔗 [View Repository](https://github.com/LocalinTheEngineer/GameLibrary)
+
+---
+
 ## 🛠️ Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+### Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cs,html,css,sql" />
 
-## 🚀 Projects I'm Actively Working On
+### Development & Tools
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/LocalinTheEngineer/devtracker" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LocalinTheEngineer&repo=devtracker&theme=radical&hide_border=true" />
-      </a>
-      <p>
-        A React + Vite app for tracking personal dev tasks — dashboard view, progress tracking, filterable task lists, and a stats page to see how much you're actually getting done.
-        <br/>
-        <b>Stack:</b> React · React Router · Vite
-        <br/>
-        🔗 <a href="https://localintheengineer.github.io/devtracker">Live demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/LocalinTheEngineer/game-library" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LocalinTheEngineer&repo=game-library&theme=radical&hide_border=true" />
-      </a>
-      <p>
-        A personal game library manager — track what you're playing, log hours, rate games, and browse stats broken down by genre and status. Data is saved locally, with dark/light theme support.
-        <br/>
-        <b>Stack:</b> React · Vite · LocalStorage
-        <br/>
-        🔗 <a href="https://localintheengineer.github.io/game-library">Live demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react,vite,flask,git,github,vscode,linux" />
 
-<br/>
+### Areas I'm Exploring
 
+```text
+Artificial Intelligence
+Cybersecurity
+Network Security
+Machine Learning
+Software Development
+Developer Tools
+```
 
+---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=LocalinTheEngineer&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LocalinTheEngineer&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building things. Breaking things. Fixing things. Repeat.
+
+<sub>Sometimes the bug is the feature. Sometimes it's definitely not.</sub>
+
+</div>
