@@ -11,7 +11,7 @@
 
 I build projects end to end and ship them with tests, CI and documentation. Recent work covers a reinforcement learning agent trained on a live Minecraft server, a network intrusion detection system, an AI study platform in production and an offline Android app.
 
-- Third-year Computer Engineering student (2024 – 2028), English C1
+- Third-year Computer Engineering student (2024 – 2028)
 - Interested in **AI/ML**, **cybersecurity** and **developer tools**
 - Now building **[RepoLens AI](https://github.com/LocalinTheEngineer/RepoLensAI)**: ask questions about a GitHub repo and get answers that cite the exact files and lines
 - Open to internships, including international roles
